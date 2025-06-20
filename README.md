@@ -12,7 +12,7 @@
 ✉️ &nbsp;Email me anytime at: marcaliagaborras@gmail.com\
 🔗 &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/marc-aliaga-ciberseguridad)
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDhhNGZhYTM5MTMwNzk1NTlmY2IzMDBjNDk2NWFjY2RjNjY0ZTUwYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xT9Igq1jYMHeVazWUw/giphy.gif" align="right"/>
 
 ---
 
